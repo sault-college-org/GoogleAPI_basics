@@ -38,7 +38,7 @@ Contributions are welcome! If you have improvements or additional examples to en
 
 ## Contact
 
-For any questions, concerns, or updates related to labs, please contact Roberto Vallado at rvalladopacheco@saultcollege.ca or roberto.ValladoPacheco@saultcollege.ca and through teams on the CSD112 teams chat as well as through personal message through teams.
+For any questions, concerns, or updates related to labs, please contact Roberto Vallado at rvalladopacheco@saultcollege.ca or roberto.ValladoPacheco@saultcollege.ca and through teams on the CSD teams chat as well as through personal message through teams.
 
 I want you to know that I am here to support and guide you every step of the way throughout this course. 
 
