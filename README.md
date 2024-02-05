@@ -1,14 +1,33 @@
-# Simple DOM and JavaScript Basics
+# Google API implementation
 
-This repository is a simplified implementation of DOM (Document Object Model) concepts and basic JavaScript. It serves as a beginner-friendly resource to help students understand the fundamentals of DOM manipulation and JavaScript imports.
+The repository is created to provide developers with a pre-configured and structured codebase that incorporates the Google Maps API.
 
 ## Project Structure
 
 The project structure is designed to be straightforward and easy to comprehend, making it an ideal starting point for individuals new to web development.
 
+## Boilerplate Features:
+
+- It includes essential files, such as HTML, CSS, and JavaScript, with the necessary configurations to set up a Google Maps project quickly.
+
+## Code Organization:
+
+- The codebase is organized to showcase best practices and a clear project structure, making it easy for developers to understand and extend the functionality.
+
+## Usage Guidelines:
+
+- The repository typically includes documentation or a README file with instructions on how to use the boilerplate, integrate the Google Maps API, and customize the map according to specific project requirements.
+
+## Key Components:
+
+- Important components like API key handling, map initialization, markers, and event handling may be included to demonstrate common use cases.
+
 - **index.html:** The main HTML file representing the structure of the web page.
 - **style.css:** A simple stylesheet for basic styling.
 - **scripts folder:** Contains JavaScript files illustrating basic concepts. Each file focuses on a specific part of the project to aid in learning.
+- **Restaurants README:**  A markup file where students will exercise their abilities to write good documentation for their work done.
+- **assets folder:** Contains parts requested in Lab 4 from Google "MY MAPS"
+
 
 ## Getting Started
 
@@ -38,7 +57,7 @@ Contributions are welcome! If you have improvements or additional examples to en
 
 ## Contact
 
-For any questions, concerns, or updates related to labs, please contact Roberto Vallado at rvalladopacheco@saultcollege.ca or roberto.ValladoPacheco@saultcollege.ca and through teams on the CSD teams chat as well as through personal message through teams.
+For any questions, concerns, or updates related to labs, please contact Roberto Vallado at rvalladopacheco@saultcollege.ca or roberto.ValladoPacheco@saultcollege.ca and through the course teams chat as well as through personal message through teams.
 
 I want you to know that I am here to support and guide you every step of the way throughout this course. 
 
